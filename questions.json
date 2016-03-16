@@ -1,5 +1,11 @@
 {
-"tags": ["rotation", "vertical"]
-"question": "Which is the biggest city in the world"
+"tags": ["rotation", "vertical"],
+"question": "Which is the biggest city in the world",
 "answer": "Lagos"
+},
+
+{
+"tags": ["bones"],
+"question": "What is the patella",
+"answer": "The patella is the Knee bone"
 }
